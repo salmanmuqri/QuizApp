@@ -8,7 +8,7 @@ How to run this project:
    javac QuizApp.java
    java QuizApp
 4. And your java program is ready
-5. 
+   
 Working:
 1. Home page has 3 Buttons, 1.'Start Quiz', 2.'Check Score', 3. 'Exit'
 2. After clicking on 'Start Quiz' button it asks for Your <Name>, enter your <Name> and Click 'OK'.(You also have a cancel option which will lead you back to Home Page).
