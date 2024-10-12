@@ -36,6 +36,7 @@ Working:
 <img width="401" alt="Screenshot 2024-10-12 at 7 45 32 AM" src="https://github.com/user-attachments/assets/4a1ad50f-5820-4a7d-9982-870fe1bbe2dd">
 <br>
 <img width="401" alt="Screenshot 2024-10-12 at 7 45 38 AM" src="https://github.com/user-attachments/assets/5e5e550b-41f4-4e5b-8973-b2d0e41f190c">
+<br>
 If you find any bugs please email me at salmanmuqri920@icloud.com
 Connect with me on linked in https://www.linkedin.com/in/muhammad-salman-muqri-89a42119b/
 
