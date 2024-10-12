@@ -1,6 +1,14 @@
 # QuizApp
 Simple Quiz Application with GUI Using Java Swing, AWT, etc
 WARNING this Code Does not cosnists of DATABASE instead it stores Questions in an Array.
+How to run this project:
+1. Download the QuizApp.java file.
+2. Open the terminal in same directory.
+3. run following commands:
+   javac QuizApp.java
+   java QuizApp
+4. And your java program is ready
+5. 
 Working:
 1. Home page has 3 Buttons, 1.'Start Quiz', 2.'Check Score', 3. 'Exit'
 2. After clicking on 'Start Quiz' button it asks for Your <Name>, enter your <Name> and Click 'OK'.(You also have a cancel option which will lead you back to Home Page).
