@@ -41,3 +41,4 @@ If you find any bugs please email me at salmanmuqri920@icloud.com
 Connect with me on linked in https://www.linkedin.com/in/muhammad-salman-muqri-89a42119b/
 
 Hope you do well in your projects, Thank you for visiting this project
+*AI help has been taken in this project* 
